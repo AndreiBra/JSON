@@ -1,0 +1,15 @@
+{
+  "Environment":"<Description of environment>",
+  "ID":1 ,
+  "Summary":"<What?Where?Why?>",
+  "STR":{
+          "Step1":"<step description>",
+          "Step2":"<step description>"          
+        },
+        "version","<Number version>",
+  "Severity":"<Can be categorized into four parts>",
+  "Priority":"<Can be categorized into three parts>",
+  "Expected Result":"<Description of expected result>",
+  "Actual Result":"<Description of actual result>",
+  "Attachments":"<link>"
+}
